@@ -1,8 +1,0 @@
-cluster.name: siemonster
-node.name: node-proteus
-path.data: /data
-bootstrap.mlockall: true
-network.host: 0.0.0.0
-discovery.zen.ping.unicast.hosts: ["kraken", "tiamat", "proteus"]
-discovery.zen.minimum_master_nodes: 2
-http.enabled: true
