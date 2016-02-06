@@ -1,6 +1,6 @@
 cluster.name: siemonster
 node.name: node-proteus
-path.data: /data
+node.data: false
 bootstrap.mlockall: true
 network.host: 0.0.0.0
 #discovery.zen.ping.unicast.hosts: ["kraken", "tiamat", "proteus"]
